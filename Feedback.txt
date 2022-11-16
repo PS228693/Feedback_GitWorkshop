@@ -1,3 +1,5 @@
+Joris
+
 Hoe vond ik deze workshops?
 
 De workshops waren vooral erg leerzaam. Het is denk ik wel goed om sterker te worden in het gebruik van GIT Bash. Vooral erg handig om te gebruiken tijdens projecten
@@ -10,3 +12,11 @@ Was het nuttig?
 
 Jazeker. Soms heb je in de reguliere lessen niks te doen, en als dit er dan voor in de plaats komt, heb je toch weer wat extra's geleerd.
 
+Sid
+
+Deze workshop was goed gegaan :)
+Ten eerste, de basis van git is goed geleerd. Aan het begin van deze workshop wist ik namelijk bijna niks van git, maar nu kan ik er wel een beetje mee opweg.
+Ten tweede, de workshops waren best wel leuk om te doen. Ik was hier nooit met tegenzin.
+En ten derde, alles is heel creatief gemaakt. Met de meme van een paar jaar geleden, de puzzel en de stickers.
+
+De enige opmerking die ik heb is dat deze workshops niet goed waren ingepland. Eén dag hadden we namelijk drie uur tussen uur voor alleen dit.
